@@ -194,7 +194,7 @@ namespace CrashBot
 
             // Send information to webhook
             var webhook = new DiscordWebhookClient(
-                "https://discord.com/api/webhooks/980930351897657404/4mlqk1i41-f4SuLVinqiVzgdHn_dRlNGO0uBO9N6FQoX1yPus53tnjJMQoWRmoxl5vDh"
+                ""
                 );
             var emb = new EmbedBuilder
             {
